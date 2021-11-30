@@ -18,7 +18,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pier101&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamepier101&layout=compact)](https://github.com/pier101/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pier101&layout=compact)](https://github.com/pier101/github-readme-stats)
 
 
 
