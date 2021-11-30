@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=kyunghyun%20codding&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=pier101%20codding&fontSize=90)
 
 
 
@@ -10,15 +10,15 @@
 - BlockChain
 - React and React Native + Expo 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkyunghyunHan&count_bg=%238B08C0&title_bg=%23C20000&icon=node-dot-js.svg&icon_color=%23403535&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpier101&count_bg=%238B08C0&title_bg=%23C20000&icon=node-dot-js.svg&icon_color=%23403535&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kyunghyunHan&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pier101&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamepier101&layout=compact)](https://github.com/pier101/github-readme-stats)
 
 
 
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Go-7649bb?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
 <br><br><br>
 
-#### 📧 Email : ekfqlwcjswl@gmail.com
+#### 📧 Email : achievedw@gmail.com
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
 
