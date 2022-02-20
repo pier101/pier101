@@ -6,7 +6,7 @@
 - Node.js
 - React
 - Linux
-- Solidity
+- Solidity  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpier101&count_bg=%238B08C0&title_bg=%23C20000&icon=node-dot-js.svg&icon_color=%23403535&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
